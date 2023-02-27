@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name" : "timer extension",
+    "version" : "1.0.0" ,
+    "description" : "firt ever chrome extension", 
+    "icons" : {
+        "16" : "tomato.png",
+        "48" : "tomato.png",
+        "128" : "tomato.png"
+    },
+    "action" : {
+        "default_icon" : {
+            "16" : "tomato.png",
+            "24" : "tomato.png",
+            "32" : "tomato.png"
+        },
+        "default_title" : "timer extension",
+        "default_popup" : "popup.html"
+    }
+}
